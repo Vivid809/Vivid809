@@ -2,11 +2,6 @@
 
 A Data Scientist based in Brisbane. I build practical AI/analytics solutions across **ML**, **Power BI**, and **AWS**—with a bias for shipped value.
 
-## What I’m focusing on:
-- Production-minded ML & data apps
-- Portfolio-quality dashboards and AI demos
-- Cleaner repos, docs, and CI
-
 ## 🔧 What I’m working on currently:
 
 - Building **data-driven decision dashboards** — including a *Cost-to-Serve Logistics Dashboard* in Power BI that analyses delivery routes, driver efficiency, and operational costs to improve profitability.
