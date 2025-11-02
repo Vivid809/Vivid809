@@ -7,4 +7,5 @@ A Data Scientist based in Brisbane. I build practical AI/analytics solutions acr
 - Portfolio-quality dashboards and AI demos
 - Cleaner repos, docs, and CI
 
-📫 **Connect:** [LinkedIn](#) • [Email](#)
+📫 **Connect:** [LinkedIn](https://linkedin.com/in/mutahher-naseer-30778b220) · [Email](mailto:Mutahhar.you@gmail.com)
+
