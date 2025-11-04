@@ -32,8 +32,6 @@ Building intelligent, data-driven systems that connect analytics, automation, an
 | 🧩 Project | 📄 Description | 🛠️ Tech Stack |
 |:----------|:---------------|:--------------|
 | [**AWS Video Analysis Pipeline**](https://github.com/Vivid809/aws-video-analysis-pipeline) | Distributed cloud video processing with auto-scaling, de-duplication, and object analytics. | AWS, Node.js, React, Redis |
-| **Cost-to-Serve Dashboard** | Power BI dashboard analyzing delivery routes, driver efficiency & logistics cost optimization. | Power BI, DAX, SQL |
-| **QUT Sport Data Dashboard** | Operational insights from Xplor datasets to evaluate program participation & utilization. | Power BI, APIs |
 | **Weather ETL Pipeline** | Automated data ingestion from Open-Meteo API for weather pattern analysis. | Python, Pandas |
 
 ---
