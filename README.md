@@ -33,7 +33,7 @@ Building intelligent, data-driven systems that connect analytics, automation, an
 |:----------|:---------------|:--------------|
 | [**AWS Video Analysis Pipeline**](https://github.com/Vivid809/aws-video-analysis-pipeline) | Distributed cloud video processing with auto-scaling, de-duplication, and object analytics. | AWS, Node.js, React, Redis |
 | [**Weather ETL Pipeline**](https://github.com/Vivid809/weather-etl-pipeline)| Automated data ingestion from Open-Meteo API for weather pattern analysis. | Python, Pandas |
-| **QUT Sport Dashboard** | Power BI project visualising membership, facility, and retail KPIs using internal Xplor data. *Repository private due to institutional data restrictions.* | 🔒 Private |
+| **QUT Sport Dashboard** | Power BI project visualising membership, facility, and retail KPIs using internal Xplor data. *Repository private due to institutional data restrictions.* You may view it on my LinkedIn under projects | 🔒 Private |
 | **Logistics Cost-to-Serve Analysis** | Power BI dashboard exploring logistics efficiency and operational cost metrics. *Work in progress.* | ⚙️ In Development |
 [**Inventory Demand Analysis & Forecasting**](https://github.com/Vivid809/inventory_demand_analysis) | Data analysis project exploring demand trends, SKU stability, and SARIMA forecasting for supply chain optimization. | Python, Pandas, Seaborn, Statsmodels |
 
