@@ -42,11 +42,7 @@ Building intelligent, data-driven systems that connect analytics, automation, an
 ---
 
 ## 🧭 About Me
-I’m passionate about **connecting technical systems with real-world business performance** — whether it’s  
-cloud scaling, data visualization, or applied machine learning.  
-
-I enjoy turning complex datasets into clear insights and love building tools that **scale automatically**  
-and look **as good as they perform**.
+I’m a data-driven professional specialising in operations, logistics, and supply chain analytics. I build analytical systems that convert raw operational data into clear insights using Power BI, Python, and cloud workflows. My work focuses on transport performance, cost-to-serve modelling, and automation, helping organisations optimise efficiency and make better decisions. I enjoy solving complex problems and creating dashboards and pipelines that scale and deliver real business value.
 
 ---
 
