@@ -1,16 +1,20 @@
 # 👋 Hi, I'm Mutahher Naseer  
 
-🎯 **Data Scientist | Cloud & Data Analytics Enthusiast | Logistics & Supply Chain Analyst | Open to Work**  
+🎯 **Data Scientist | Logistics & Supply Chain Analytics | Operational Efficiency & Forecasting | Open to Work**  
 📍 Australia  
-Building intelligent, data-driven systems that connect analytics, automation, and business value.
+*Turning operational data into insights that improve logistics performance, forecasting accuracy, and supply chain efficiency.*
 
 ---
 
-## 🧠 Current Focus
-- ☁️ **AWS Video Analysis Pipeline** – distributed video analytics system using EC2, S3, SQS, and Redis for auto-scaling video detection  
-- 📊 **Power BI Dashboards** – transforming business datasets into insight-driven analytics tools  
-- 🧬 **AI & ML Prototyping** – exploring lightweight GenAI workflows and data pipelines for business applications  
-- 🧩 **Portfolio Expansion** – refining end-to-end documentation, architecture visualization, and presentation polish  
+## 🔥 Current Focus
+
+AWS Video Analysis Pipeline – distributed analytics system using EC2, S3, SQS, and Redis for auto-scaling video processing
+
+Power BI Logistics Dashboards – transforming operational datasets into insights on delivery performance, delays, and cost-to-serve
+
+Operational & Supply Chain Analytics – forecasting, modelling, and optimisation using Python and ML
+
+Portfolio Expansion – documenting end-to-end workflows, pipeline design, and business-focused analytics projects 
 
 ---
 
@@ -42,7 +46,11 @@ Building intelligent, data-driven systems that connect analytics, automation, an
 ---
 
 ## 🧭 About Me
-I’m a data-driven professional specialising in operations, logistics, and supply chain analytics. I build analytical systems that convert raw operational data into clear insights using Power BI, Python, and cloud workflows. My work focuses on transport performance, cost-to-serve modelling, and automation, helping organisations optimise efficiency and make better decisions. I enjoy solving complex problems and creating dashboards and pipelines that scale and deliver real business value.
+I’m a data-driven professional specialising in operations, logistics, and supply chain analytics. I build analytical systems that convert raw operational data into actionable insights using Power BI, Python, and cloud-based workflows.
+
+My work focuses on transport performance analysis, forecasting, cost-to-serve modelling, and automation, helping organisations improve efficiency, delivery performance, and data-driven decision-making.
+
+I enjoy solving complex operational problems and creating dashboards, pipelines, and scalable analytics tools that deliver real business value.
 
 ---
 
