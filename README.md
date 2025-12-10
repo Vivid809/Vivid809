@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mutahher Naseer  
 
 🎯 **Data Scientist | Cloud & Data Analytics Enthusiast | Logistics & Supply Chain Analyst | Open to Work**  
-📍 Brisbane, Australia  
+📍 Australia  
 Building intelligent, data-driven systems that connect analytics, automation, and business value.
 
 ---
